@@ -1,0 +1,33 @@
+#main {
+	background-image: url("rg.webp");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right;
+	background-size: cover;
+	height: 100vh;
+}
+
+#frame iframe {
+	height: 90vh;
+	display: block;
+	width: 100%;
+	align-items: center;
+}
+
+#hm {
+	height: 50vh;
+    width: 75vw;
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+}
+
+form {
+	width: 70vw;
+	justify-content: center;
+	vertical-align: middle;
+	display: table-cell;
+	place-items: center;
+}
